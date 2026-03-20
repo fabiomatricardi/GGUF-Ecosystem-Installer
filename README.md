@@ -4,6 +4,11 @@ An all-in-one automation tool designed to turn any Windows PC into a local LLM p
 
 <img width="722" height="642" alt="ggufinstaller001" src="https://github.com/user-attachments/assets/acd66bd5-8341-422e-bafa-0f779b90cbfa" />
 
+## Windows executable
+You can find the pre-compiled [windows binaries (GGUF-ecosystem-installer.exe) here](https://github.com/fabiomatricardi/GGUF-Ecosystem-Installer/releases/tag/GGUF_Ecosystem_Installer)
+
+---
+
 ## 🌟 Key Features
 
 * **Hardware-Aware Recommendations**: Automatically categorizes your PC into Low, Medium, or High tiers and suggests compatible models.
